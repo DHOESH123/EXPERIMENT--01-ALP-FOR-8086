@@ -3,7 +3,7 @@ Name : ESHWAR T
 
 Reg no : 212223230054
 
-Date of experiment : 10-03-25
+Date of experiment : 07-03-25
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
