@@ -1,9 +1,9 @@
 # EXPERIMENT 01 ALP FOR 8086
-Name : PRIYANKA A
+Name : ESHWAR T
 
-Reg no : 212222230113
+Reg no : 212223230054
 
-Date of experiment : 12-08-2024
+Date of experiment : 10-03-25
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
